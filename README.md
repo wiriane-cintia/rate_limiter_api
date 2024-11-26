@@ -1,7 +1,3 @@
-### **README for Rate Limiter API**
-
----
-
 ## **Rate Limiter API**
 This project implements a **Rate Limiting System** using **Elixir** and **Phoenix Framework**. It limits the number of requests per second per IP address, ensuring fair usage and protecting the system from abuse. The implementation uses **ETS (Erlang Term Storage)** for high-performance request tracking.
 
